@@ -1,0 +1,106 @@
+{
+  "configVersion": 1,
+  "timestamp": 1609202417682,
+  "index": "/SmartMac/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/SmartMac/4.a859be017a157a9cc4fc.js",
+        "/SmartMac/5.c04af4992980b87f952f.js",
+        "/SmartMac/6.17d0c33fc5f7fc5f2f37.js",
+        "/SmartMac/7.5b24b96540bb23945972.js",
+        "/SmartMac/favicon.ico",
+        "/SmartMac/firebase-messaging-sw.js",
+        "/SmartMac/index.html",
+        "/SmartMac/main.dca8c8b957f78e2bc2b0.js",
+        "/SmartMac/manifest.webmanifest",
+        "/SmartMac/polyfills.807c48cc014ab0be6389.js",
+        "/SmartMac/runtime.17b4c86055bac7c31935.js",
+        "/SmartMac/scripts.533a25923711b987b373.js",
+        "/SmartMac/styles.0b31003b78415bd2080d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/SmartMac/assets/bus-notification.png",
+        "/SmartMac/assets/chat.png",
+        "/SmartMac/assets/icons/icon-128x128.png",
+        "/SmartMac/assets/icons/icon-144x144.png",
+        "/SmartMac/assets/icons/icon-152x152.png",
+        "/SmartMac/assets/icons/icon-192x192.png",
+        "/SmartMac/assets/icons/icon-384x384.png",
+        "/SmartMac/assets/icons/icon-512x512.png",
+        "/SmartMac/assets/icons/icon-72x72.png",
+        "/SmartMac/assets/icons/icon-96x96.png",
+        "/SmartMac/assets/logopush.png",
+        "/SmartMac/assets/logosm1.png",
+        "/SmartMac/assets/notifications/icon.png",
+        "/SmartMac/assets/notifications/image.png",
+        "/SmartMac/assets/user.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/SmartMac/4.a859be017a157a9cc4fc.js": "4be29a4f74f4f883e04e812e308a457f272017a6",
+    "/SmartMac/5.c04af4992980b87f952f.js": "c67aa8fc6edf31902b5a8d3b591875c8678f26a8",
+    "/SmartMac/6.17d0c33fc5f7fc5f2f37.js": "dff9460288fde8a27ac8ad14a385fdf2fe4e9165",
+    "/SmartMac/7.5b24b96540bb23945972.js": "c81155f8b58b915206b1ae11ca82172b985d6444",
+    "/SmartMac/assets/bus-notification.png": "08e4c25865f79ae7556b10ca95647e116c2b2c4e",
+    "/SmartMac/assets/chat.png": "b270e291cbf5c76ed3a1cc6d0e50d75c8db6a094",
+    "/SmartMac/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/SmartMac/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/SmartMac/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/SmartMac/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/SmartMac/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/SmartMac/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/SmartMac/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/SmartMac/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/SmartMac/assets/logopush.png": "0711987c0f31b0586eddd31b97a27e04e0bae323",
+    "/SmartMac/assets/logosm1.png": "892cbc5dccff1abb54a7a5105f2b251f91e6f4d9",
+    "/SmartMac/assets/notifications/icon.png": "0711987c0f31b0586eddd31b97a27e04e0bae323",
+    "/SmartMac/assets/notifications/image.png": "892cbc5dccff1abb54a7a5105f2b251f91e6f4d9",
+    "/SmartMac/assets/user.png": "3935261d82a098acf449847ea099e01a5e8df1ee",
+    "/SmartMac/favicon.ico": "437860f7d603457f87c3bd8bcb7cc93a96b05979",
+    "/SmartMac/firebase-messaging-sw.js": "e3d444a96484a6a96d2eb5a2cf239f912e9d205d",
+    "/SmartMac/index.html": "26a26abb2f0923dd75ac5f52ed391f2d9bdf44fc",
+    "/SmartMac/main.dca8c8b957f78e2bc2b0.js": "2a6b71c93a7d9f2f0fb23b24ecdb95f963e923bf",
+    "/SmartMac/manifest.webmanifest": "a2591cdcc1b79775aef86ccfba9627a5e1140031",
+    "/SmartMac/polyfills.807c48cc014ab0be6389.js": "7c74e34e322aefa9f0dd6a15ecea46617b21dc63",
+    "/SmartMac/runtime.17b4c86055bac7c31935.js": "39a7e4d6fd892f4dafb72e5ee82edff6de474629",
+    "/SmartMac/scripts.533a25923711b987b373.js": "f7f022e7fc161d28726ac95d160721a9b397b2c7",
+    "/SmartMac/styles.0b31003b78415bd2080d.css": "95372d8d17c5024333a253a66a2e7802c58498f6"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
